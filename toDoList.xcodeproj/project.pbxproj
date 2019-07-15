@@ -15,6 +15,7 @@
 		18100C7222D9330D00DC7162 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18100C7122D9330D00DC7162 /* TableViewController.swift */; };
 		18100C7422D9337B00DC7162 /* ToDo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18100C7322D9337B00DC7162 /* ToDo.swift */; };
 		18100C7622D9428E00DC7162 /* AddToDoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18100C7522D9428E00DC7162 /* AddToDoViewController.swift */; };
+		18100C7822DCF26B00DC7162 /* CompleteToDoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18100C7722DCF26B00DC7162 /* CompleteToDoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		18100C7122D9330D00DC7162 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		18100C7322D9337B00DC7162 /* ToDo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDo.swift; sourceTree = "<group>"; };
 		18100C7522D9428E00DC7162 /* AddToDoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToDoViewController.swift; sourceTree = "<group>"; };
+		18100C7722DCF26B00DC7162 /* CompleteToDoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompleteToDoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 			children = (
 				18100C5A22D92DFE00DC7162 /* AppDelegate.swift */,
 				18100C5E22D92DFE00DC7162 /* Main.storyboard */,
+				18100C7722DCF26B00DC7162 /* CompleteToDoViewController.swift */,
 				18100C7522D9428E00DC7162 /* AddToDoViewController.swift */,
 				18100C6422D92E0000DC7162 /* Assets.xcassets */,
 				18100C6622D92E0000DC7162 /* LaunchScreen.storyboard */,
@@ -148,6 +151,7 @@
 				18100C7222D9330D00DC7162 /* TableViewController.swift in Sources */,
 				18100C7622D9428E00DC7162 /* AddToDoViewController.swift in Sources */,
 				18100C5B22D92DFE00DC7162 /* AppDelegate.swift in Sources */,
+				18100C7822DCF26B00DC7162 /* CompleteToDoViewController.swift in Sources */,
 				18100C7422D9337B00DC7162 /* ToDo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
